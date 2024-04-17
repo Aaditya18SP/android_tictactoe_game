@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="btnstart">START</string>
+    <string name="act1title">Welcome ! Enter the player names to begin </string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="chooseplayer"> Choose who starts</string>
+    <string name="tvallempty"></string>
+    <string name="btnplayagain">Play Again</string>
+    <string name="X">X</string>
+    <string name="O">O</string>
+    <string name="gameover">Game Over! </string>
+    <string name="btnexit">Exit</string>
+</resources>
